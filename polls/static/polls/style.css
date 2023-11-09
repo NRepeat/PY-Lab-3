@@ -1,0 +1,28 @@
+ul li a {
+  font-size: x-large;
+  color: green;
+
+}
+
+li {
+  list-style-type: none;
+
+}
+
+ul {
+
+  background-color: black;
+  width: 50%;
+  height: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: white url("images/background.gif") no-repeat;
+  background-size: cover;
+}
